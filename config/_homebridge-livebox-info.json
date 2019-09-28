@@ -1,0 +1,15 @@
+{  
+    "Downstream":"5.74 Mbit",
+    "Upstream":"0.94 Mbit",
+    "LastChange":"Sat Sep 21 14:36:22 2019",
+    "SoftwareVersion":"SR40_sip-fr-3.53.6.1_7.21.3.1",
+    "UpTime":"22:17:37 (NumberOfReboots: 14)",
+    "ExternalIPAddress":"***.***.***.***",
+    "IPv4Address":"192.168.1.1",
+    "IPv6Address":"****:****:****:****:****:****:****",
+    "IPv6DelegatedPrefix":"****:****:**:****:****",
+    "directoryNumber":"+33*********",
+    "PhoneState":"Up",
+    "TVState":"Available",
+    "WifiState":"False"
+ }

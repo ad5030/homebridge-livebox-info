@@ -1,0 +1,9 @@
+"accessories": [
+    {
+        "accessory": "OrangeLiveboxInfo",
+        "name": "Orange Livebox Info",
+        "file": "/tmp/_homebridge-livebox-info.json",
+        "serial": "042-04-000",
+        "updateInterval": 60000
+    }
+]

@@ -1,0 +1,37 @@
+{
+  "name": "homebridge-livebox-info",
+  "version": "0.0.1",
+  "description": "A homebridge plugin that get livebox information",
+  "homepage": "https://di-marco.net/projects/homebridge-livebox-info/",
+  "main": "index.js",
+  "author": "AdM <adm@di-marco.net>",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "Homekit",
+    "macOS",
+    "EVE.",
+    "Apple Inc.",
+    "siri",
+    "home",
+    "livebox",
+    "orange"
+  ],
+ "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ad5030/homebridge-livebox-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ad5030/homebridge-livebox-info/issues"
+  },
+  "engines": {
+    "node": ">=11.10.1",
+    "homebridge": ">=0.4.48"
+  },
+  "dependencies": {
+    "moment": "*",
+    "fakegato-history": ">=0.5.3",
+    "homebridge": ">=0.4.0"
+  }
+}
