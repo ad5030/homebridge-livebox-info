@@ -1,6 +1,5 @@
 # homebridge-livebox-info
 
-> **Note:** Coming soon...
 
 homebridge-livebox-info is homebridge plugin for Apple HomeKit, get and return somes Orange Livebox informations.
 
