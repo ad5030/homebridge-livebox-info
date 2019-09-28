@@ -1,6 +1,6 @@
 {
   "name": "homebridge-livebox-info",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A homebridge plugin that get livebox information",
   "homepage": "https://di-marco.net/projects/homebridge-livebox-info/",
   "main": "index.js",
