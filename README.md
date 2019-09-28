@@ -11,7 +11,7 @@ homebridge-livebox-info is homebridge plugin for Apple HomeKit, get and return s
         <a href="https://www.npmjs.com/package/homebridge-livebox-info"><img src="https://img.shields.io/npm/dt/homebridge-livebox-info.svg" alt="npm download" /></a>
     </div>
     <div style="display: inline-block;">
-        <a href="https://github.com/ad5030/homebridge-livebox-info"><img src="https://img.shields.io/github/license/ad5030/homebridge-macosx-livebox.svg" alt="GitHub license" /></a>
+        <a href="https://github.com/ad5030/homebridge-livebox-info"><img src="https://img.shields.io/github/license/ad5030/homebridge-macosx-info.svg" alt="GitHub license" /></a>
     </div>
 </div>
 
