@@ -30,9 +30,6 @@ Such as :
   * [x] WifiState
 <!--more-->
 
-*See [changelog]({{ site.baseurl }}/assets/docs/homebridge-livebox-info_CHANGELOG)*
-
-> **Note:** Screenshots are taken from iOS [Eve.app](https://www.evehome.com/en/eve-app)
 
 ## Exemple of .json data response file
 
