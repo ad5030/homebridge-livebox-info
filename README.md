@@ -7,7 +7,7 @@ homebridge-livebox-info is homebridge plugin for Apple HomeKit, get and return s
 [![GitHub license](https://img.shields.io/github/license/ad5030/homebridge-macosx-info.svg)](https://github.com/ad5030/homebridge-livebox-info)
 <!-- [![Donate](https://img.shields.io/badge/donate-paypal-yellowgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9MC83TRGACQPJ&source=url) --> 
 
-> **Note:**  /!\ This is a `beta` version
+> **Note:**  /!\ It's a `beta` version
 
 Such as : 
   * [x] Speed Downstream *(Mbit)*
