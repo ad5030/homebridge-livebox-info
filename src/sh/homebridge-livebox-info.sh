@@ -49,6 +49,7 @@ function livebox_mon()
     fi
     response=${response}\"${key}\":\"${value}\",
   done < $TMP_DIR/$TMP_DSLRATE
+  
   response=${response%?}
 
   phonestate=`cat $TMP_DIR/$TMP_PHONESTATE | grep "'status'" | grep -v "{'status':"`
