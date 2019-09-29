@@ -1,6 +1,5 @@
 # homebridge-livebox-info
 
-
 homebridge-livebox-info is homebridge plugin for Apple HomeKit, get and return somes Orange Livebox informations.
 
 <div>
@@ -15,7 +14,9 @@ homebridge-livebox-info is homebridge plugin for Apple HomeKit, get and return s
     </div>
 </div>
 
-Such as :
+> **Note:**  /!\ This is a `beta` version
+
+Such as : 
   * [x] Speed Downstream *(Mbit)*
   * [x] Speed Upstream *(Mbit)*
   * [ ] Uptime
